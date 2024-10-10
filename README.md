@@ -22,13 +22,21 @@ Update the database connection settings in config.php with your database credent
 Run the Application:
 
 Place the project folder in the AMPPS www directory.
+
 Access the application in your browser at http://localhost/member-administration/public/index.php.
+
 Usage
+
 Login: Access the login page and enter valid credentials.
+
 Manage Families: Navigate to the "Families" section to add, edit, or view family records.
+
 Manage Members: Access the "Members" section to manage members associated with each family.
+
 Track Contributions: Use the "Contributions" section to record and monitor financial contributions.
+
 Technical Choices
+
 The application is developed in English to ensure international reach, making it accessible to a global audience, including non-Dutch speakers. The choice of PHP and MySQL was driven by their robustness for building dynamic web applications, while the MVC structure ensures a clear separation of logic, data, and presentation.
 
 Reflection
