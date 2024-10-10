@@ -6,7 +6,7 @@ The Member Administration Application is a web-based system designed for managin
 Features
 User Authentication: Secure login and logout functionality.
 Family Management: Create, edit, and list family records.
-Member Management: Manage individual members within each family, including adding, editing, and listing members.
+Member Management: Manage individual members within each family, including adding, editing, and listing members. 
 Contribution Management: Record and track financial contributions from family members.
 Responsive Design: Optimized for different devices using custom CSS styles.
 
