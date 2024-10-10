@@ -8,57 +8,7 @@ Family Management: Create, edit, and list family records.
 Member Management: Manage individual members within each family, including adding, editing, and listing members.
 Contribution Management: Record and track financial contributions from family members.
 Responsive Design: Optimized for different devices using custom CSS styles.
-Project Structure
-lua
-Αντιγραφή κώδικα
-project-folder/
-│
-├── controllers/
-│   ├── FamilyController.php
-│   ├── MemberController.php
-│   └── ContributionController.php
-│
-├── models/
-│   └── User.php
-│
-├── public/
-│   ├── index.php
-│   ├── logout.php
-│   └── css/
-│       ├── contributioncreatio.css
-│       ├── contributioncredit.css
-│       ├── contributionlist.css
-│       ├── createfamily.css
-│       ├── editfamily.css
-│       ├── familylist.css
-│       ├── loginstyle.css
-│       ├── membercreate.css
-│       ├── memberlist.css
-│       └── memberedit.css
-│
-├── views/
-│   ├── auth/
-│   │   ├── console.php
-│   │   └── login.php
-│   ├── contribution/
-│   │   ├── create.php
-│   │   ├── edit.php
-│   │   └── list.php
-│   ├── family/
-│   │   ├── create.php
-│   │   ├── edit.php
-│   │   └── list.php
-│   └── member/
-│       ├── create.php
-│       ├── edit.php
-│       └── list.php
-Installation
-Clone the repository:
 
-bash
-Αντιγραφή κώδικα
-git clone https://github.com/yourusername/member-administration.git
-cd member-administration
 Set up AMPPS: Ensure AMPPS is installed and configured with PHP and MySQL.
 
 Database Setup:
